@@ -1,3 +1,4 @@
+# This program convert text from lowwer case to upper case
 import tkinter
 from PIL import ImageTk, Image
 from tkinter import BOTH, StringVar, END
