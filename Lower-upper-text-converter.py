@@ -1,3 +1,4 @@
+# add some OTHER text to finish exercise
 # This program convert text from lowwer case to upper case
 # this is simple program. On the next step i wil add more descriptons
 import tkinter
