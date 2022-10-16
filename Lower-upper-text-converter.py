@@ -22,11 +22,15 @@ root.config(bg = root_color)
 # Define functions
 def submit_name():
     # Say hello to your user
+    #Create a label for the user name based of radio button values
     if case_style.get() == "normal":
         name_label = tkinter.Label(output_frame, text = "Cześć " + name.get() + "! Zacznij uczyć się montażu filmów!", bg = output_color)
     elif case_style.get() == "upper":
             name_label = tkinter.Label(output_frame, text = ("Cześć " + name.get() + "! Zacznij uczyć się montażu filmów!").upper(), bg = output_color)
+
+    #Pack label onto screen
     name_label.pack()    
+    #Clear the entry field for the next user
     name.delete(0,END)
 
 
