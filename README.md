@@ -4,3 +4,4 @@ A simple application to change lowercase letters to uppercase. You can add text 
 * textbox
 * radio buttons
 * text field
+* simple emoticon
