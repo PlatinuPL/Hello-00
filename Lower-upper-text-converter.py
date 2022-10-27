@@ -1,6 +1,7 @@
 # add some OTHERS text and comment to finish exercise 
 # This program convert text from lowwer case to upper case
 # this is simple program. On the next step i wil add more descriptons
+# i ilke pizza :)
 import tkinter
 from PIL import ImageTk, Image
 from tkinter import BOTH, StringVar, END
@@ -15,7 +16,7 @@ root.resizable(0,0)
 
 # Define fonts and colors
 root_color = "#000000"
-input_color = "#14213D"
+input_color = "#1421EA"
 output_color = "#E5E5E5"
 root.config(bg = root_color)
 
