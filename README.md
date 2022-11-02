@@ -6,6 +6,7 @@ And we use my favorite blue color :)
 
 This taxt was added only for testing GIT GUI
 
+License: MIT
 ## Properties
 * textbox
 * radio buttons
