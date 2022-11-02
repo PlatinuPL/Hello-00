@@ -4,9 +4,9 @@ A simple application to change lowercase letters to uppercase. You can add text 
  be displayed on the screen, but using whatever formatting you have selected.
 And we use my favorite blue color :)
 
-Pik
-Caro
-Trefl
+King
+Queen
+Joker
 
 ## Properties
 * textbox
